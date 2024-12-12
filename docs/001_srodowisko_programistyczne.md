@@ -4,9 +4,17 @@ Przy doborze środowiska programistycznego, pierwsze co to się powinno ustalić
 
 # 2. Charakterystyka środowiska programistycznego Visual Studio
 
+
 # 3. Dobór środowiska programistycznego do programowania w języku C++
 
 Dla języka C++ optymalnym wyborem środowiska będzie Code::Blocks przez to że jest open-source, co pozwala na dodawanie przez użytkowników pluginów oraz wsparcia dla bibliotek czy frameworków.
+![image](https://github.com/user-attachments/assets/72d5c629-8297-4b28-92eb-d03db749668d)
+
+## Debugger
+Breakpointy są w pełni wspierane przez debugger Code::Blocks. It also gives the user access to the local function symbol and argument display, user-defined watches, call stack, disassembly, custom memory dump, thread switching, CPU registers, and the GNU Debugger Interface, allowing them to debug their application.
+
+## GUI Designer
+Od wersji 13.12, Code::Blocks zawiera framework? wxSmith który pozwala na budowę GUI aplikacji desktopowej, podobnie do WPF przy C#.
 
 # 4. Dobór środowiska programistycznego do programowania w języku C#
 
